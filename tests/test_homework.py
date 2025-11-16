@@ -19,7 +19,7 @@ MODEL_COMPONENTS = [
 ]
 SCORES = [
     0.661,
-    0.665,
+    0.660,
 ]
 METRICS = [
     {
