@@ -164,5 +164,3 @@ cython_debug/
 #.idea/
 
 # Model and output files (generated during training)
-files/models/
-files/output/
